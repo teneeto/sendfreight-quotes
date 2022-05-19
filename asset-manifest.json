@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/sendfreight-quotes/static/js/main.d1bcff6d.js",
+    "main.js": "/sendfreight-quotes/static/js/main.66cbe405.js",
     "static/js/787.afc0a6e7.chunk.js": "/sendfreight-quotes/static/js/787.afc0a6e7.chunk.js",
     "static/media/Inter-SemiBold.otf": "/sendfreight-quotes/static/media/Inter-SemiBold.281fd279f1bbf7e8d0d9.otf",
     "static/media/Inter-Medium.otf": "/sendfreight-quotes/static/media/Inter-Medium.8386f9c82a1101e6a8d4.otf",
@@ -8,10 +8,10 @@
     "static/media/Gilroy-ExtraBold.otf": "/sendfreight-quotes/static/media/Gilroy-ExtraBold.0094146a0505298ed06a.otf",
     "static/media/Gilroy-Light.otf": "/sendfreight-quotes/static/media/Gilroy-Light.cc7ab55d27205bd64001.otf",
     "index.html": "/sendfreight-quotes/index.html",
-    "main.d1bcff6d.js.map": "/sendfreight-quotes/static/js/main.d1bcff6d.js.map",
+    "main.66cbe405.js.map": "/sendfreight-quotes/static/js/main.66cbe405.js.map",
     "787.afc0a6e7.chunk.js.map": "/sendfreight-quotes/static/js/787.afc0a6e7.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.d1bcff6d.js"
+    "static/js/main.66cbe405.js"
   ]
 }
