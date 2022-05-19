@@ -8,7 +8,12 @@ const Pagination = () => {
       <p>
         <span>1</span> 2 3 ... 10
       </p>
-      <input type="number" id="fname" name="fname" value={6} autoFocus></input>
+      <input
+        type="number"
+        id="fname"
+        name="fname"
+        defaultValue={6}
+        autoFocus></input>
     </Container>
   );
 };

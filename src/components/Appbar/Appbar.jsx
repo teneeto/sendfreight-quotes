@@ -8,7 +8,6 @@ const Appbar = ({children}) => {
         <Title>Quotes</Title>
         <Button>Create New</Button>
       </TileContainer>
-
       {children}
     </Container>
   );
@@ -17,7 +16,6 @@ const Appbar = ({children}) => {
 export default Appbar;
 
 const Container = styled.div`
-  /* height: 100px; */
   max-width: 100%;
   padding: 0 ${2 * 16}px 0 ${2 * 16}px;
   border-bottom: 1px solid ${({theme}) => theme.colors.border_color};

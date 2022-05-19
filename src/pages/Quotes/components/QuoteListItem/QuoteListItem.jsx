@@ -48,6 +48,7 @@ const OrderNumber = styled.p`
 `;
 
 const SubHeading = styled.p`
+  text-transform: capitalize;
   font-size: 13px;
   color: ${({theme, subHeadingColor}) =>
     subHeadingColor ? subHeadingColor : theme.colors.lighter_grey_text};
