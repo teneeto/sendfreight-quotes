@@ -16,7 +16,7 @@ const Container = styled.div`
   display: flex;
   align-items: center;
   padding-left: 16px;
-  font-size: 20px;
+  font-size: 14px;
   color: ${({theme}) => theme.colors.primary};
 
   span:last-of-type {
